@@ -1,0 +1,180 @@
+SciLearn AI Tutor - Comprehensive Lesson Audit Questions
+=========================================================
+
+This file contains the test questions (both valid and invalid) to verify that the AI Tutor is correctly constrained to the active lesson and answering subject-related questions accurately.
+
+---------------------------------------------------------
+BIOLOGY
+---------------------------------------------------------
+
+1. Heart & Circulatory System (lessonId: heart)
+   - Valid Question 1: What is the function of the left ventricle?
+   - Valid Question 2: Why does the heart have four chambers?
+   - Valid Question 3: What does the sinoatrial node do?
+   - Invalid Question 1: Who won the IPL?
+   - Invalid Question 2: Tell me a joke.
+   - Invalid Question 3: What is Python programming?
+
+2. Brain & Central Nervous System (lessonId: brain-cns)
+   - Valid Question 1: What is the function of the cerebral cortex?
+   - Valid Question 2: How many neurons are in the human brain?
+   - Valid Question 3: How does the blood-brain barrier protect the brain?
+   - Invalid Question 1: What is the capital of France?
+   - Invalid Question 2: How do you cook pasta?
+
+3. Stomach & Digestive Process (lessonId: stomach-digestive-process)
+   - Valid Question 1: Why is gastric acid (HCl) important in digestion?
+   - Valid Question 2: What is the role of pepsin in protein breakdown?
+   - Valid Question 3: How does the stomach protect itself from self-digestion?
+   - Invalid Question 1: Show me code to write a binary search tree.
+   - Invalid Question 2: Who is the President of the United States?
+
+4. Eye / Iris Anatomy (lessonId: eye-iris)
+   - Valid Question 1: How does the iris regulate the amount of light entering the eye?
+   - Valid Question 2: What is the difference between rods and cones?
+   - Valid Question 3: How does the optic nerve transmit visual signals?
+   - Invalid Question 1: What is a black hole?
+   - Invalid Question 2: Can you write a recipe for chocolate cake?
+
+5. Structure of Plant Cells (lessonId: plant-cell-structure)
+   - Valid Question 1: Why do plant cells have a rigid cell wall while animal cells do not?
+   - Valid Question 2: What is the role of the central vacuole in maintaining turgor pressure?
+   - Valid Question 3: What is the function of chloroplasts in plant cells?
+   - Invalid Question 1: What is JavaScript?
+   - Invalid Question 2: Who wrote Hamlet?
+
+6. Photosystem I & II Light Capture (lessonId: light-reactions)
+   - Valid Question 1: What is the difference between Photosystem I and Photosystem II?
+   - Valid Question 2: How does water splitting produce oxygen in light-dependent reactions?
+   - Valid Question 3: What is the role of the electron transport chain (ETC) in thylakoids?
+   - Invalid Question 1: How do you fix a flat tire?
+   - Invalid Question 2: Who is Lionel Messi?
+
+7. Photosynthesis Process (lessonId: photosynthesis-process)
+   - Valid Question 1: What are the main inputs and outputs of the Calvin Cycle?
+   - Valid Question 2: Where do the light-dependent and dark reactions occur?
+   - Valid Question 3: What enzyme is responsible for carbon fixation?
+   - Invalid Question 1: What are the rules of basketball?
+   - Invalid Question 2: Can you write a CSS styling code?
+
+
+---------------------------------------------------------
+PHYSICS
+---------------------------------------------------------
+
+8. Displacement, Velocity & Acceleration (lessonId: velocity-accel)
+   - Valid Question 1: What is the difference between displacement and distance?
+   - Valid Question 2: How is acceleration represented as a slope on a velocity-time graph?
+   - Valid Question 3: What is the difference between a scalar and a vector?
+   - Invalid Question 1: Who won the FIFA World Cup?
+   - Invalid Question 2: What is photosynthesis?
+
+9. Newton's Three Laws of Motion (lessonId: newtons-laws)
+   - Valid Question 1: What is inertia and how does it relate to Newton's First Law?
+   - Valid Question 2: How does doubling force affect acceleration under F=ma?
+   - Valid Question 3: Can you explain Newton's Third Law with action-reaction force pairs?
+   - Invalid Question 1: How does a battery work?
+   - Invalid Question 2: Explain ionic bonding.
+
+10. Coefficient of Friction & Drag Forces (lessonId: friction-drag)
+    - Valid Question 1: What is the difference between static and kinetic friction?
+    - Valid Question 2: What factors determine the terminal velocity of a falling object?
+    - Valid Question 3: How does surface roughness affect the coefficient of friction?
+    - Invalid Question 1: What is a neural network?
+    - Invalid Question 2: How many chambers are in a human heart?
+
+11. Newtonian Universal Gravitation (lessonId: newton-gravitation)
+    - Valid Question 1: What does the inverse-square law state about gravity?
+    - Valid Question 2: How does the gravitational constant G differ from local acceleration g?
+    - Valid Question 3: How does gravity provide centripetal force for orbits?
+    - Invalid Question 1: What is a chemical equation?
+    - Invalid Question 2: How do you balance an equation?
+
+12. The Work-Energy Theorem (lessonId: work-energy-theorem)
+    - Valid Question 1: What is the mathematical statement of the Work-Energy Theorem?
+    - Valid Question 2: How does a force do positive or negative work on an object?
+    - Valid Question 3: How is kinetic energy related to net work done?
+    - Invalid Question 1: What is pH scale?
+    - Invalid Question 2: What are the parts of the brain?
+
+13. Ohm's Law & Circuit Schematics (lessonId: ohms-law)
+    - Valid Question 1: How are voltage, current, and resistance related?
+    - Valid Question 2: What is the function of a resistor in a circuit?
+    - Valid Question 3: How does increasing voltage affect current under Ohm's Law?
+    - Invalid Question 1: Tell me about photosynthesis.
+    - Invalid Question 2: Write a Python program to print Hello World.
+
+14. Kirchhoff's Junction & Loop Rules (lessonId: kirchhoffs-laws)
+    - Valid Question 1: What is Kirchhoff's Junction Rule (KCL) based on?
+    - Valid Question 2: Explain Kirchhoff's Loop Rule (KVL) in terms of energy conservation.
+    - Valid Question 3: How do you analyze current entering and leaving a junction?
+    - Invalid Question 1: What is DNA?
+    - Invalid Question 2: Can plants perform cellular respiration?
+
+15. Lorentz Force & Wire Magnetic Fields (lessonId: magnetic-fields)
+    - Valid Question 1: What is the Lorentz Force formula for a moving charge in a magnetic field?
+    - Valid Question 2: How do you use the Right-Hand Rule to find force direction?
+    - Valid Question 3: Why does a charged particle move in a helical trajectory?
+    - Invalid Question 1: What is cell division?
+    - Invalid Question 2: Who invented electricity?
+
+16. Amplitude, Frequency & Wavelength (lessonId: wave-properties)
+    - Valid Question 1: How are frequency and wavelength related to wave speed?
+    - Valid Question 2: What does amplitude represent in terms of wave energy?
+    - Valid Question 3: What is the difference between transverse and longitudinal waves?
+    - Invalid Question 1: What is a base?
+    - Invalid Question 2: What is the function of the stomach?
+
+
+---------------------------------------------------------
+CHEMISTRY
+---------------------------------------------------------
+
+17. The Bohr Model & Quantum Energy Levels (lessonId: bohr-model)
+    - Valid Question 1: Why do electrons occupy fixed, quantized energy levels?
+    - Valid Question 2: What happens when an electron jumps to a lower energy state?
+    - Valid Question 3: What is the ground state of an atom?
+    - Invalid Question 1: Who won the IPL?
+    - Invalid Question 2: Tell me a joke.
+
+18. s, p, d, f Electron Configurations (lessonId: electron-config)
+    - Valid Question 1: What are the Hund's Rule and Pauli Exclusion Principle?
+    - Valid Question 2: How do you write the electron configuration of Carbon?
+    - Valid Question 3: Why are copper and chromium exceptions to the Aufbau Principle?
+    - Invalid Question 1: What is acceleration?
+    - Invalid Question 2: Explain Newton's First Law.
+
+19. Ionic vs. Covalent Bonds (lessonId: ionic-vs-covalent)
+    - Valid Question 1: What is the main difference between electron sharing and electron transfer?
+    - Valid Question 2: How does electronegativity determine if a bond is ionic or covalent?
+    - Valid Question 3: Why does NaCl form an ionic lattice?
+    - Invalid Question 1: How does a heart pump blood?
+    - Invalid Question 2: Tell me about the brain.
+
+20. Law of Conservation of Mass & Balancing (lessonId: balancing-equations)
+    - Valid Question 1: Why must the number of atoms of each element be conserved in a reaction?
+    - Valid Question 2: How do coefficients differ from subscripts when balancing an equation?
+    - Valid Question 3: Balance this reaction: H2 + O2 -> H2O.
+    - Invalid Question 1: Who won the election?
+    - Invalid Question 2: What are the lobes of the brain?
+
+21. Understanding pH & Strong vs Weak Acids (lessonId: ph-poh-scale)
+    - Valid Question 1: What makes an acid strong versus weak in water?
+    - Valid Question 2: Why is pH logarithmic and what does a change of 1 unit mean?
+    - Valid Question 3: How do universal indicators change color across pH ranges?
+    - Invalid Question 1: How do you construct a circuit?
+    - Invalid Question 2: What is the Lorentz Force?
+
+22. Neutralization & Titration (lessonId: acid-base-titrations)
+    - Valid Question 1: What is the difference between equivalence point and endpoint?
+    - Valid Question 2: How do you calculate the concentration of an unknown acid?
+    - Valid Question 3: Why does phenolphthalein turn pink in basic solutions?
+    - Invalid Question 1: What is the work-energy theorem?
+    - Invalid Question 2: How does gravity keep planets in orbit?
+
+23. Alkanes, Alkenes & Alkynes Nomenclature (lessonId: hydrocarbons)
+    - Valid Question 1: What is the general formula for alkanes, alkenes, and alkynes?
+    - Valid Question 2: What are the IUPAC naming rules for simple hydrocarbons?
+    - Valid Question 3: Why is methane saturated and ethene unsaturated?
+    - Invalid Question 1: What is the function of plant vacuole?
+    - Invalid Question 2: Write a python script.
